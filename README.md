@@ -113,6 +113,4 @@ University of Petroleum and Energy Studies (UPES)
 
 ---
 
-## ⭐ Project Status
 
-MBA Dissertation Project | 2026
